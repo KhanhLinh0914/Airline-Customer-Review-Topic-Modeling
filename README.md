@@ -9,7 +9,7 @@ This project applies **Natural Language Processing (NLP) and topic modeling** to
 **Team:** Neha Kataria, Thi Khanh Linh Pham (Sylvia), Muskan, Ke Ping Lo, Karyn Denise Pang, Gull Qazi
 
 ## Business Problem
-Airlines receive large volumes of written customer reviews containing valuable feedback, but manually reviewing them is time-consuming and makes it hard to identify recurring issues. This project uses topic modeling to automatically surface the main themes in reviews — delays, refunds, baggage handling, seating, cabin service, so airlines can prioritize fixes and reinforce what's working.
+Airlines receive large volumes of written customer reviews containing valuable feedback, but manually reviewing them is time-consuming and makes it hard to identify recurring issues. This project uses topic modeling to automatically surface the main themes in reviews: delays, refunds, baggage handling, seating, cabin service, so airlines can prioritize fixes and reinforce what's working.
 
 ## Dataset
 - 23,171 airline reviews, 20 variables (airline name, overall rating, traveller type, comfort/staff/ground-service ratings, value for money, recommendation status, review text, etc.)
